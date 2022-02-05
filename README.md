@@ -27,5 +27,6 @@
 </p>
 
 <p>
+  &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaarkr&langs_count=3&layout=compact&theme=vue" alt="Sharath Kumar's most used languages" />
 </p>
