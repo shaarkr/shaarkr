@@ -6,9 +6,9 @@
 
 - 💬 Ask me about **vuejs, angular, css**
 
-- 📫 How to reach me **[@sharathkr](mailto:sharathkr@protonmail.com)**
+- 📫 You can reach me **[@sharathkr](mailto:sharathkr@protonmail.com)**
 
-- ⚡ Fun fact **Gaining good experience @ enabling a better experience**
+- ⚡ I'm **gaining good experience at enabling a better experience**
 
 <hr />
 
