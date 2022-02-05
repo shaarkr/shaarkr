@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **vuejs, angular, css**
 
-- 📫 How to reach me **![@sharathkr](sharathkr@protonmail.com)**
+- 📫 How to reach me **[@sharathkr](mailto:sharathkr@protonmail.com)**
 
 - ⚡ Fun fact **Gaining good experience @ enabling a better experience**
 
@@ -15,10 +15,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/sharathkumar106" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/shharkr/shaarkr/main/assets/twitter.svg" alt="twitter profile of sharath kumar" height="30" width="40" />
+    <img align="center" src="assets/twitter.svg" alt="twitter profile of sharath kumar" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/sharathkumarkr" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/shharkr/shaarkr/main/assets/linked-in.svg" alt="linkedin profile of sharath kumar" height="30" width="40" />
+    <img align="center" src="assets/linked-in.svg" alt="linkedin profile of sharath kumar" height="30" width="40" />
   </a>
 </p>
 
