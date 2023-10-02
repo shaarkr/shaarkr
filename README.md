@@ -21,12 +21,3 @@
     <img align="center" src="assets/linked-in.svg" alt="linkedin profile of sharath kumar" height="30" width="40" />
   </a>
 </p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shaarkr&show_icons=true&locale=en&theme=vue" alt="Sharath Kumar's github stats" />
-</p>
-
-<p>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaarkr&langs_count=3&layout=compact&theme=vue" alt="Sharath Kumar's most used languages" />
-</p>
